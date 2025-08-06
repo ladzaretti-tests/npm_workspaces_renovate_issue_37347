@@ -1,0 +1,6 @@
+{
+  "name": "workspace1",
+  "dependencies": {
+    "uuid": "11.1.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "aws-sdk": "2.1472.0"
+  },
+  "name": "",
+  "description": "",
+  "workspaces": [
+    "./workspaces/workspace"
+  ]
+}
